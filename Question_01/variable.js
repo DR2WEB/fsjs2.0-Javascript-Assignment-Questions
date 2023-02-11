@@ -38,7 +38,8 @@ console.log("---------------------------")
 console.log(typeof(bool));
 
 // Null
-let nul = null;
-console.log(nul);
+let nal = null;
+console.log(nal);
 console.log(typeof(nul));
+
 
