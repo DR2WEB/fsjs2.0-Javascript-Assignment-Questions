@@ -1,6 +1,6 @@
-let i = 0;
+let a = 10; 
+let b = 5;
+let c = 10;
+let d = 7;
 
-if(i <= 10){
-    i++ ;
-    console.log("i is lessthan 10",i);
-}
+
